@@ -1,4 +1,4 @@
-### Hi, welcome to my Github 👋
+### Hi 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=180909)
 
