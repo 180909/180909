@@ -2,6 +2,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=180909)
 
+[I'm waiting for a job offer.](mailto:wjh180909@gmail.com)
+
 <!--
 <p align="center">
   <a href="https://github.com/golang/go"><img src="https://img.shields.io/github/stars/golang/go.svg?label=Go&style=social" alt="Go on GitHub"></a>
