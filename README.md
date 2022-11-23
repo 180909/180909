@@ -2,7 +2,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=180909)
 
-[I'm waiting for a job offer.](mailto:wjh180909@gmail.com)
 
 <!--
 <p align="center">
